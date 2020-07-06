@@ -1,8 +1,0 @@
-{
-    "python.linting.pylintArgs": [ "----extension-pkg-whitelist=1xml" ],
-    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
-    "python.autoComplete.extraPaths": [
-    
-    ],
-    "git.ignoreLimitWarning": true
-}
